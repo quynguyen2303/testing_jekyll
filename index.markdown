@@ -6,8 +6,11 @@ layout: home
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 "Testing"
 >>>>>>> parent of 52f8044 (add theme files)
+=======
+>>>>>>> parent of 72a9536 (edit config.ymal)
 =======
 >>>>>>> parent of 72a9536 (edit config.ymal)
