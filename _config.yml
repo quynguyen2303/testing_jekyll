@@ -238,17 +238,23 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 # in the templates via {{ site.myvariable }}.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 title: Your awesome title
 email: your-email@example.com
 =======
 title: Nguyen Phu Quy
 email: nguyenphuquy2303@gmail.com
 >>>>>>> parent of 52f8044 (add theme files)
+=======
+title: Your awesome title
+email: your-email@example.com
+>>>>>>> parent of 72a9536 (edit config.ymal)
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
+<<<<<<< HEAD
 <<<<<<< HEAD
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
@@ -261,6 +267,11 @@ theme: minima
 url: https://quynguyen2303.github.io/ # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ""
 github_username:  quynguyen2303
+=======
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: jekyllrb
+github_username:  jekyll
+>>>>>>> parent of 72a9536 (edit config.ymal)
 
 # Build settings
 <<<<<<< HEAD
