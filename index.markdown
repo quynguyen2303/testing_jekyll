@@ -4,3 +4,7 @@
 
 layout: home
 ---
+<<<<<<< HEAD
+=======
+"Testing"
+>>>>>>> parent of 52f8044 (add theme files)
